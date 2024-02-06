@@ -1,4 +1,4 @@
-# ☕[Growflix Project](https://growflix-project.vercel.app/) 🐲
+# ✨[Growflix Project](https://growflix-project.vercel.app/)📽️
 ### Vercel Host: [Clique aqui.](https://growflix-project.vercel.app/)
 
 > [!IMPORTANT]
