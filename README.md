@@ -1,5 +1,5 @@
 # ✨[Growflix Project](https://growflix-project.vercel.app/)📽️
-### Vercel Host: [Clique aqui.](https://growflix-project.vercel.app/)
+<h3>Vercel Host: <a href="https://growflix-project.vercel.app/" target="_blank">Clique aqui.</a></h3>
 
 > [!IMPORTANT]
 > Este repositório tem como propósito o estudo de: Estrutura HTML, consumo de API, bootstrap, DOM JS e CSS. Para ver mais sobre meus estudos [Clique aqui](https://github.com/Marccelo125/Growdev-exercicios)</br>
