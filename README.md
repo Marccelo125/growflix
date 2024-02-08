@@ -2,7 +2,7 @@
 <h3>Vercel Host: <a href="https://growflix-project.vercel.app/" target="_blank">Clique aqui.</a></h3>
 
 > [!IMPORTANT]
-> Este repositório tem como propósito o estudo de: Estrutura HTML, consumo de API, bootstrap, DOM JS e CSS. Para ver mais sobre meus estudos [Clique aqui](https://github.com/Marccelo125/Growdev-exercicios)</br>
+> Este repositório tem como propósito o estudo de: Estrutura HTML, consumo de API, bootstrap, JS e CSS. Para ver mais sobre meus estudos [Clique aqui](https://github.com/Marccelo125/Growdev-exercicios)</br>
 
 ![image](https://github.com/Marccelo125/growflix/assets/127633664/0466ab04-bed7-4a96-b714-10f85d1f4574)
 ![image](https://github.com/Marccelo125/growflix/assets/127633664/1b42d502-114f-440f-a6b3-ead46b047202)
