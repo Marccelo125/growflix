@@ -1,7 +1,7 @@
-const growcastItemsRow = document.getElementById("growcast-items");
-const webinarItemsRow = document.getElementById("webinar-items");
-const uxUiItemsRow = document.getElementById("ux-ui-items");
-const geralItemsRow = document.getElementById("geral-items");
+const growcastRow = document.getElementById("growcast-items");
+const webinarRow = document.getElementById("webinar-items");
+const uxUiRow = document.getElementById("ux-ui-items");
+const geralRow = document.getElementById("geral-items");
 const iframeMovie = document.getElementById("iframe-movie");
 const movieModal = new bootstrap.Modal("#movie-modal", {
   keyboard: false,
@@ -70,9 +70,9 @@ function openMovie(element) {
   movieModal.show();
 }
 
-renderItems(growcastItemsRow, growcastItems);
-renderItems(webinarItemsRow, webinarItems);
-renderItems(uxUiItemsRow, uxUiItems);
-renderItems(geralItemsRow, geralItems);
+renderItems(growcastRow, growcastItems);
+renderItems(webinarRow, webinarItems);
+renderItems(uxUiRow, uxUiItems);
+renderItems(geralRow, geralItems);
 
 
